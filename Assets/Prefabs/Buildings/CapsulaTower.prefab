@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4249594056770538490}
   - component: {fileID: 6471326774624558163}
   - component: {fileID: 2948652178028871556}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cylinder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -165,7 +165,7 @@ GameObject:
   - component: {fileID: 7855181047221012143}
   - component: {fileID: 3521813323275755756}
   - component: {fileID: 4358012392671031794}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -310,7 +310,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5807373504103612309}
   - component: {fileID: 4146304636558261753}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: CapsulaTower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -366,7 +366,7 @@ GameObject:
   - component: {fileID: 3978595641274760853}
   - component: {fileID: 2203216090170076384}
   - component: {fileID: 3526435627051460184}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -515,7 +515,7 @@ GameObject:
   - component: {fileID: 4881894457935299361}
   - component: {fileID: 2878942682173623909}
   - component: {fileID: 568006526183561915}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cylinder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -666,7 +666,7 @@ GameObject:
   - component: {fileID: 1678681694435859843}
   - component: {fileID: 659500340036290413}
   - component: {fileID: 1788352582822855424}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -816,7 +816,7 @@ GameObject:
   - component: {fileID: 4631634966351213134}
   - component: {fileID: 6361362095330293908}
   - component: {fileID: 3584149011769037177}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -965,7 +965,7 @@ GameObject:
   - component: {fileID: 8482744474044317638}
   - component: {fileID: 2167945694766757520}
   - component: {fileID: 3997715229056109175}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cylinder (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1116,7 +1116,7 @@ GameObject:
   - component: {fileID: 769096082818243561}
   - component: {fileID: 4457590650409017547}
   - component: {fileID: 2010926508138029850}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Capsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}

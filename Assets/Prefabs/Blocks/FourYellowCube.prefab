@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4241381089433890171}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FourYellowCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48,7 +48,7 @@ GameObject:
   - component: {fileID: 8509817315344712105}
   - component: {fileID: 3806745747019646630}
   - component: {fileID: 3527059234937660497}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 6750568276935094805}
   - component: {fileID: 8236835856117341395}
   - component: {fileID: 2749013347845097432}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -314,7 +314,7 @@ GameObject:
   - component: {fileID: 7196002625850752027}
   - component: {fileID: 4016318398899492510}
   - component: {fileID: 7395801723511914192}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RedCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -447,7 +447,7 @@ GameObject:
   - component: {fileID: 5661169664742054282}
   - component: {fileID: 9180525794297597813}
   - component: {fileID: 1058304316630082813}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

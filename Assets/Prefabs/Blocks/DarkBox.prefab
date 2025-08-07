@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3745628508518372785}
   - component: {fileID: 480210125522507327}
   - component: {fileID: 8641054980470640425}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -142,7 +142,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 499944291718328380}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DarkBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 7850302462324069126}
   - component: {fileID: 60260488423069816}
   - component: {fileID: 3270523523662931480}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -314,7 +314,7 @@ GameObject:
   - component: {fileID: 2050815860270522688}
   - component: {fileID: 3636951984755168620}
   - component: {fileID: 4543206775178392509}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -447,7 +447,7 @@ GameObject:
   - component: {fileID: 8178470946531109680}
   - component: {fileID: 6429842534860998405}
   - component: {fileID: 8320694202519581054}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

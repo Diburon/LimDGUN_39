@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 148108475766405423}
   - component: {fileID: 5790521248625445418}
   - component: {fileID: 1992948627045575916}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 8219375299129795059}
   - component: {fileID: 3579714192454167315}
   - component: {fileID: 18872440393470366}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RedCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -291,7 +291,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4085360274020408258}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BlackThreesBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -329,7 +329,7 @@ GameObject:
   - component: {fileID: 6316891802477714311}
   - component: {fileID: 7597181546172652378}
   - component: {fileID: 6824779556969056875}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

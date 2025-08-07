@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2659864620380886218}
   - component: {fileID: 6946756147711687588}
   - component: {fileID: 4934596452285358549}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -146,7 +146,7 @@ GameObject:
   - component: {fileID: 8334749901870535118}
   - component: {fileID: 5838556936240501078}
   - component: {fileID: 6727139227294947960}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -279,7 +279,7 @@ GameObject:
   - component: {fileID: 7993392327237608149}
   - component: {fileID: 3261301559409034658}
   - component: {fileID: 2715117390090097803}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -408,7 +408,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3072220174243653251}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RedLine (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
