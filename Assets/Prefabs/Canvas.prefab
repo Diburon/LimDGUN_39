@@ -1004,6 +1004,7 @@ GameObject:
   - component: {fileID: 6519509012296750007}
   - component: {fileID: 5943794096760340848}
   - component: {fileID: 6777332719189419566}
+  - component: {fileID: 1813750580942919238}
   m_Layer: 5
   m_Name: Message
   m_TagString: Untagged
@@ -1128,6 +1129,27 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!111 &1813750580942919238
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3803470490633062867}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 319058d924f70ab4b95d0f1c21edf7d5, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 319058d924f70ab4b95d0f1c21edf7d5, type: 2}
+  - {fileID: 7400000, guid: 3da0e5b31c734b14eb6bee8ad218353d, type: 2}
+  - {fileID: 7400000, guid: 030e67722f10aef49ad610539b9191ec, type: 2}
+  - {fileID: 7400000, guid: 25564eb5aadc6d54bbec1bcfaae1c818, type: 2}
+  - {fileID: 7400000, guid: 406a01ec687657944a903cebec230443, type: 2}
+  - {fileID: 7400000, guid: 34ab263533b78e0458f6f57c1516849c, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &3907152291212990377
 GameObject:
   m_ObjectHideFlags: 0

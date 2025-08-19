@@ -15,19 +15,19 @@ MonoBehaviour:
   <Settings>k__BackingField:
   - Mult: 1
     Text: WOW!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 319058d924f70ab4b95d0f1c21edf7d5, type: 2}
   - Mult: 2
-    Text: UUUUFF!!!
-    Clip: {fileID: 0}
+    Text: WOW!
+    Clip: {fileID: 7400000, guid: 3da0e5b31c734b14eb6bee8ad218353d, type: 2}
   - Mult: 3
-    Text: Impossible!
-    Clip: {fileID: 0}
+    Text: UUUUFF!!!
+    Clip: {fileID: 7400000, guid: 030e67722f10aef49ad610539b9191ec, type: 2}
   - Mult: 4
     Text: SUPERHERO!!!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 25564eb5aadc6d54bbec1bcfaae1c818, type: 2}
   - Mult: 5
-    Text: FIRE!FIRE!
-    Clip: {fileID: 0}
+    Text: FIRE! FIRE! FIRE!
+    Clip: {fileID: 7400000, guid: 406a01ec687657944a903cebec230443, type: 2}
   - Mult: 6
     Text: CARNAGE!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 34ab263533b78e0458f6f57c1516849c, type: 2}
