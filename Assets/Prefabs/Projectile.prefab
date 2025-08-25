@@ -147,5 +147,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _explosionRadius: 0.26
-  _explosionForce: 10.29
+  _explosionForce: 9
   _lifeTime: 7
