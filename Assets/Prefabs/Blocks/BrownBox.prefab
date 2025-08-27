@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8495613595732934049}
   - component: {fileID: 5375967548087059713}
   - component: {fileID: 4412933791586602772}
+  - component: {fileID: 7671048129501536524}
   m_Layer: 0
   m_Name: Cube (13)
   m_TagString: Untagged
@@ -133,6 +134,21 @@ Rigidbody:
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 2
+--- !u!138 &7671048129501536524
+FixedJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4495400669458030671}
+  m_ConnectedBody: {fileID: 7593347622082912466}
+  m_ConnectedArticulationBody: {fileID: 0}
+  m_BreakForce: 500
+  m_BreakTorque: 500
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 1
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
 --- !u!1 &4933006623914613517
 GameObject:
   m_ObjectHideFlags: 0
@@ -180,6 +196,7 @@ GameObject:
   - component: {fileID: 7408221426451632320}
   - component: {fileID: 5639861593616560035}
   - component: {fileID: 7593347622082912466}
+  - component: {fileID: 9070139032989338417}
   m_Layer: 0
   m_Name: Cube (12)
   m_TagString: Untagged
@@ -300,6 +317,21 @@ Rigidbody:
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 2
+--- !u!138 &9070139032989338417
+FixedJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6204521961053242516}
+  m_ConnectedBody: {fileID: 3769997876829333647}
+  m_ConnectedArticulationBody: {fileID: 0}
+  m_BreakForce: 500
+  m_BreakTorque: 500
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 1
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
 --- !u!1 &6360216775519368003
 GameObject:
   m_ObjectHideFlags: 0
@@ -313,6 +345,7 @@ GameObject:
   - component: {fileID: 6337667430933314976}
   - component: {fileID: 1274368634767892510}
   - component: {fileID: 3769997876829333647}
+  - component: {fileID: 3389582900569330297}
   m_Layer: 0
   m_Name: Cube (11)
   m_TagString: Untagged
@@ -433,3 +466,18 @@ Rigidbody:
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 2
+--- !u!138 &3389582900569330297
+FixedJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6360216775519368003}
+  m_ConnectedBody: {fileID: 7593347622082912466}
+  m_ConnectedArticulationBody: {fileID: 0}
+  m_BreakForce: 500
+  m_BreakTorque: 500
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 1
+  m_MassScale: 1
+  m_ConnectedMassScale: 1

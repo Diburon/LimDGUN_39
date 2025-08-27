@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 148108475766405423}
   - component: {fileID: 5790521248625445418}
   - component: {fileID: 1992948627045575916}
+  - component: {fileID: 3523541811497034990}
   m_Layer: 7
   m_Name: Cube (10)
   m_TagString: Untagged
@@ -133,6 +134,21 @@ Rigidbody:
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 2
+--- !u!138 &3523541811497034990
+FixedJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1615933745198085745}
+  m_ConnectedBody: {fileID: 6824779556969056875}
+  m_ConnectedArticulationBody: {fileID: 0}
+  m_BreakForce: 100
+  m_BreakTorque: 100
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 1
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
 --- !u!1 &4652837283657210363
 GameObject:
   m_ObjectHideFlags: 0
@@ -147,6 +163,7 @@ GameObject:
   - component: {fileID: 8219375299129795059}
   - component: {fileID: 3579714192454167315}
   - component: {fileID: 18872440393470366}
+  - component: {fileID: 2822598780697144210}
   m_Layer: 7
   m_Name: RedCube
   m_TagString: Untagged
@@ -276,6 +293,21 @@ FixedJoint:
   m_GameObject: {fileID: 4652837283657210363}
   m_ConnectedBody: {fileID: 6824779556969056875}
   m_ConnectedArticulationBody: {fileID: 0}
+  m_BreakForce: 100
+  m_BreakTorque: 100
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 1
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!138 &2822598780697144210
+FixedJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4652837283657210363}
+  m_ConnectedBody: {fileID: 6824779556969056875}
+  m_ConnectedArticulationBody: {fileID: 0}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_EnableCollision: 0
@@ -329,6 +361,7 @@ GameObject:
   - component: {fileID: 6316891802477714311}
   - component: {fileID: 7597181546172652378}
   - component: {fileID: 6824779556969056875}
+  - component: {fileID: 6123873756082399199}
   m_Layer: 7
   m_Name: Cube (8)
   m_TagString: Untagged
@@ -449,3 +482,18 @@ Rigidbody:
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 2
+--- !u!138 &6123873756082399199
+FixedJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9006714164691271493}
+  m_ConnectedBody: {fileID: 3579714192454167315}
+  m_ConnectedArticulationBody: {fileID: 0}
+  m_BreakForce: 100
+  m_BreakTorque: 100
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 1
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
